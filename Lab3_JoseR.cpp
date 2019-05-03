@@ -96,11 +96,13 @@ int main(){
 
 				break;
 			case 3:
+
 				break;
 
 
 			}
-		r='n';
+		cout<<"Desea seguir?"<<endl;
+		cin>>r;
        		}
 }
 
